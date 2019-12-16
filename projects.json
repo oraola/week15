@@ -1,0 +1,61 @@
+[ {
+   "title": "Card Sorting",
+   "description": "Using JavaScript, creates a program that models a deck of cards and outputs first the unsorted deck and then sorts the deck and outputs the result",
+   "image": "3-sorting.png"
+ },
+ {
+   "title": "A Card Game",
+   "description":"A simple interactive card game using open source code libraries provided via GitHub" ,
+   "image": "4-cardgame.png"
+ },
+ {
+   "title": "Quizz App",
+   "description": "Question-and-answer experience – a browser-based quiz – for this assignment, using the jQuery library",
+   "image": "5-quizzapp.png"
+ },
+ {
+   "title": "Enhanced Quizz",
+   "description": "Draggable and droppable interactions added to the Quiz developed last week, also widgets from the jQuery UI library",
+   "image": "6-dragquizz.png"
+ },
+ {
+   "title": "jQuery Plugin Promotional Site",
+   "description":" HTML-based experience that is enhanced by the addition of the Rich Text  and  Lightbox Fading Show plugins",
+   "image": "7-jqueryprom.png"
+ },
+ {
+   "title": "A Class Map",
+   "description": "A map app developed using Google Maps API. It displays several markers and there is a different action associated with cliking each one of them.",
+   "image": "8-classmap.png"
+ },
+ {
+   "title": "Map-Based Mobile App",
+   "description": "This app dislpays two maps, one showing the browser geolocation and another showing markers of several tea gardens in India and Nepal. A click on those markers displays information about the gardes. All based on the Google Maps API.",
+   "image": "9-midterm.png"
+ },
+ {
+   "title": "Basic Data Visualizaton",
+   "description": "Data visualization that incorporates a HTML5 canvas element and geometric shapes. Thsi one draws a pie chart with data read from an external JSON file",
+   "image": "11-basicdata.png"
+ },
+ {
+   "title": "Advanced Visualization",
+   "description": "A Bubble Chart using the 3D library, that supports hover and click interations",
+   "image": "12-exoplanets.png"
+ },
+ {
+   "title": "Basic Game",
+   "description": "Phaser 3 tutorial game with customized sprite and changed scoring system",
+   "image": "13-basicgame.png"
+ },
+  {
+   "title": "My Game",
+   "description": "Further customization of last week's assignment, adding sound effects and totally revamped graphical elements and scoring system",
+   "image": "14-mygame.png"
+ },
+ {
+   "title": "Draft Mobile App",
+   "description": "A single web-page that displays all my class assignments for CS50C during Fall 2019, using Vue.js ",
+   "image": "15-projectbrowser.png"
+ }
+]
